@@ -12,7 +12,7 @@ Will soon have the list of projects
 ## Tools and Platforms
 * Visual Studio Code
 * Python
-  - Numpy, Pandas, Scikit-learn, seaborn
+  - Libraries include: Numpy, Pandas, Scikit-learn, seaborn
 * Microsoft PowerBi
 * APIs of different platforms
 
