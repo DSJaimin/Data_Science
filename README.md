@@ -1,5 +1,5 @@
-## Data Science Projects
----
+### Data Science Projects
+
 Welcome to my data science portfolio! Here you will find all of my projects on data science which may contain some projects focused on data analysis while some on Machine Learning.
 
 ## Projects
