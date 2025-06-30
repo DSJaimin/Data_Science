@@ -1,6 +1,6 @@
 # 🏗️ Winnipeg Building Permits Dashboard (Power BI)
 
-Turn **149 k** raw City-of-Winnipeg permit records into actionable spatial insights—with automated data prep, live KPI cards, and an **Azure Maps 3-D layer that displays real-time traffic conditions.**
+Turn City-of-Winnipeg permit records into actionable spatial insights—with automated data prep, live KPI cards, and an **Azure Maps 3-D layer that displays real-time traffic conditions.**
 
 ---
 
@@ -24,7 +24,7 @@ Turn **149 k** raw City-of-Winnipeg permit records into actionable spatial insig
 ---
 
 ### ⚠️ Azure Maps Live-Traffic Prerequisites
-1. Power BI Desktop **February 2024** (or newer).  
+1. Power BI Desktop **February 2024**.  
 2. Enable preview: `File → Options & settings → Preview features → Azure Maps visual`.  
 3. Your Power BI tenant must allow Azure Maps.
 
@@ -58,3 +58,12 @@ If these settings are disabled, the live-traffic layer will not render. Two scre
 ## 🔄 Data-Prep Flow
 ```text
 Socrata API  →  Power Query (M)  →  Data-quality fix  →  Model/DAX  →  Report
+```
+---
+
+## 📫 Contact
+For questions or feedback, open an issue or reach out:
+
+- **Email:** [jaiminmp2003@gmail.com](mailto:jaiminmp2003@gmail.com)
+- **LinkedIn:** [linkedin.com/in/dsjaiminpatel](https://www.linkedin.com/in/dsjaiminpatel)
+
